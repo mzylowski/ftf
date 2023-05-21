@@ -55,7 +55,16 @@ img { border: 0; max-width: 100%; }
 h1 {
   font-family: 'Amarante', Tahoma, sans-serif;
   font-weight: bold;
-  font-size: 3.6em;
+  font-size: 2em;
+  line-height: 1.7em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Poppins', Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 1em;
   line-height: 1.7em;
   margin-bottom: 10px;
   text-align: center;

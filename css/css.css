@@ -75,7 +75,7 @@ h1 {
 #keywords {
   margin: 0 auto;
   font-size: 1.2em;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 
@@ -180,4 +180,12 @@ a {
 	color: #18272F;
 	font-weight: 700;
 	vertical-align: top;
+}
+
+td {
+    vertical-align: middle;
+}
+
+table, th, td {
+  border-bottom: 1px solid #87CEEB;
 }

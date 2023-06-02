@@ -1,4 +1,31 @@
 {
+    "OP9NK2": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9NK2",
+        "name": "Sz\u00e9pm\u0171v\u00e9szeti M\u00fazeum - MUZEUM SZTUK PI\u0118KNYCH ",
+        "log_id": 4251600,
+        "date": "2023-06-02 21:42:32+02:00",
+        "location": "47.515667|19.07675"
+    },
+    "OP9GQR": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9GQR",
+        "name": "M\u0171csarnok Budapest - PA\u0141AC SZTUKI",
+        "log_id": 4251549,
+        "date": "2023-06-02 19:59:19+02:00",
+        "location": "47.5142|19.078283"
+    },
+    "OP9GQQ": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9GQQ",
+        "name": " Bele Regis Notarius - POMNIK ANONYMUSA",
+        "log_id": 4251505,
+        "date": "2023-06-02 18:51:25+02:00",
+        "location": "47.515383|19.083233"
+    },
     "OP9ET3": {
         "tf": "TTF",
         "cache_type": "Traditional",

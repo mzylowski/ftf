@@ -1,4 +1,49 @@
 {
+    "OP9NZE": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9NZE",
+        "name": "Margitsziget Budapest - POMNIK STULECIA MIASTA",
+        "log_id": 4252349,
+        "date": "2023-06-03 19:32:14+02:00",
+        "location": "47.5184|19.04445"
+    },
+    "OP9NZD": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9NZD",
+        "name": "Margitsziget Budapest - RUINY KLASZTORU FRANCISZKAN\u00d3W",
+        "log_id": 4252325,
+        "date": "2023-06-03 18:45:37+02:00",
+        "location": "47.525333|19.0466"
+    },
+    "OP8TXP": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP8TXP",
+        "name": "Margitsziget Budapest - \u017b\u00d3\u0141WI STAW ",
+        "log_id": 4252289,
+        "date": "2023-06-03 18:30:13+02:00",
+        "location": "47.534467|19.051533"
+    },
+    "OP9NZC": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9NZC",
+        "name": "Margitsziget Budapest - KO\u015aCI\u00d3\u0141 MICHA\u0141A ARCHANIO\u0141A",
+        "log_id": 4252222,
+        "date": "2023-06-03 17:29:48+02:00",
+        "location": "47.53075|19.051"
+    },
+    "OP9NZB": {
+        "tf": "FTF",
+        "cache_type": "Traditional",
+        "op": "OP9NZB",
+        "name": "Margitsziget Budapest - PLATAN",
+        "log_id": 4252179,
+        "date": "2023-06-03 16:48:05+02:00",
+        "location": "47.52805|19.047617"
+    },
     "OP9NK2": {
         "tf": "FTF",
         "cache_type": "Traditional",

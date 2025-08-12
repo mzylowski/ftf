@@ -1,4 +1,40 @@
 {
+    "OPA2UZ": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA2UZ",
+        "name": "Epic mega box",
+        "log_id": 4908497,
+        "date": "2025-08-10 23:03:39+02:00",
+        "location": "54.427217|18.480567"
+    },
+    "OPA2QQ": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA2QQ",
+        "name": "brama zakl\u0119\u0107",
+        "log_id": 4908480,
+        "date": "2025-08-10 22:54:07+02:00",
+        "location": "54.421733|18.47735"
+    },
+    "OPA2WG": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA2WG",
+        "name": "super pomost",
+        "log_id": 4908458,
+        "date": "2025-08-10 22:38:35+02:00",
+        "location": "54.4259|18.46675"
+    },
+    "OPA2XX": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA2XX",
+        "name": "stary dworzec ,, Osowa''",
+        "log_id": 4908446,
+        "date": "2025-08-10 22:28:30+02:00",
+        "location": "54.420917|18.4519"
+    },
     "OP0DF4": {
         "tf": "STF",
         "cache_type": "Traditional",

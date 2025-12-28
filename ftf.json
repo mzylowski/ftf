@@ -1,4 +1,22 @@
 {
+    "OPA42F": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA42F",
+        "name": "ZR-20 \u0141\u00f3dka jak malowana ",
+        "log_id": 5011626,
+        "date": "2025-12-28 12:51:19+01:00",
+        "location": "54.701083|18.669183"
+    },
+    "OPA49L": {
+        "tf": "STF",
+        "cache_type": "Traditional",
+        "op": "OPA49L",
+        "name": "Stawa przednia wschodnia",
+        "log_id": 5011494,
+        "date": "2025-12-28 09:25:34+01:00",
+        "location": "54.597517|18.817083"
+    },
     "OPA2UZ": {
         "tf": "STF",
         "cache_type": "Traditional",

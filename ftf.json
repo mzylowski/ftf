@@ -1,4 +1,13 @@
 {
+    "OPA2F7": {
+        "tf": "STF",
+        "cache_type": "Other",
+        "op": "OPA2F7",
+        "name": "Mozaika Starogard Gd. Dom",
+        "log_id": 5158705,
+        "date": "2026-08-02 16:22:00+02:00",
+        "location": "53.9576|18.539417"
+    },
     "OPA2EY": {
         "tf": "TTF",
         "cache_type": "Traditional",
